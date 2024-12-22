@@ -1,0 +1,197 @@
+{
+    "CloudDefinitions": [
+      {
+        "PutRequest": {
+          "Item": {
+            "id": { "S": "1" },
+            "definition": { "S": "Cloud computing is the delivery of computing services over the internet." }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": { "S": "2" },
+            "definition": { "S": "Infrastructure as a Service (IaaS) provides virtualized computing resources over the internet." }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": { "S": "3" },
+            "definition": { "S": "Platform as a Service (PaaS) allows customers to develop, run, and manage applications without dealing with infrastructure." }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": { "S": "4" },
+            "definition": { "S": "Software as a Service (SaaS) delivers software applications over the internet on a subscription basis." }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": { "S": "5" },
+            "definition": { "S": "Public cloud is a cloud computing model where services are shared across multiple organizations." }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": { "S": "6" },
+            "definition": { "S": "Private cloud is a cloud computing model dedicated to a single organization, enhancing security and control." }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": { "S": "7" },
+            "definition": { "S": "Hybrid cloud combines public and private clouds, allowing data and applications to be shared between them." }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": { "S": "8" },
+            "definition": { "S": "Multi-cloud refers to the use of multiple cloud computing services from different providers in a single architecture." }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": { "S": "9" },
+            "definition": { "S": "Cloud storage enables data to be stored on remote servers accessed via the internet." }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": { "S": "10" },
+            "definition": { "S": "Virtual Machine (VM) is a software emulation of physical computers that allows multiple OS instances to run on a single machine." }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": { "S": "11" },
+            "definition": { "S": "Containerization encapsulates an application and its dependencies into a single unit called a container." }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": { "S": "12" },
+            "definition": { "S": "Microservices is an architectural style that structures an application as a collection of small, independent services." }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": { "S": "13" },
+            "definition": { "S": "Serverless computing allows developers to build and run applications without managing servers." }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": { "S": "14" },
+            "definition": { "S": "DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) for improved collaboration." }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": { "S": "15" },
+            "definition": { "S": "Cloud-native applications are designed to leverage cloud computing architectures and services." }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": { "S": "16" },
+            "definition": { "S": "Cloud orchestration automates the management of complex cloud services and workflows." }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": { "S": "17" },
+            "definition": { "S": "Cloud migration is the process of moving data, applications, and workloads to a cloud environment." }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": { "S": "18" },
+            "definition": { "S": "API (Application Programming Interface) allows applications to communicate with each other over the internet." }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": { "S": "19" },
+            "definition": { "S": "Data center is a facility used to house computer systems and associated components, such as telecommunications and storage." }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": { "S": "20" },
+            "definition": { "S": "Edge computing processes data closer to the source to reduce latency and bandwidth usage." }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": { "S": "21" },
+            "definition": { "S": "Load balancing distributes incoming network traffic across multiple servers to ensure reliability and performance." }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": { "S": "22" },
+            "definition": { "S": "Cloud security encompasses the technologies, policies, and controls that protect data, applications, and infrastructure." }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": { "S": "23" },
+            "definition": { "S": "Backup as a Service (BaaS) provides data backup and recovery solutions over the cloud." }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": { "S": "24" },
+            "definition": { "S": "Disaster Recovery as a Service (DRaaS) provides backup resources and failover to protect against data loss." }
+          }
+        }
+      }
+    ]
+  }
+  
